@@ -39,3 +39,23 @@ loadn r1, #582  		; Posição para imprimir os pontos
 	add r0, r0, r4
 	outchar r0, r1
 ```
+## Como jogar
+### Movimentos
+As teclas A e D são as responsáveis por movimentar a nave para a esquerda e direita respectivamente.
+
+### Disparo
+O espaço é o responsável por efetuar o disparo
+
+## Telas
+
+### Inicial
+![Tela inicial](https://user-images.githubusercontent.com/54045014/149681001-5d547905-6a5b-49d1-84ec-bb9c3b108a38.png)
+
+### Jogo
+![Jogo](https://user-images.githubusercontent.com/54045014/149681042-591dba73-2333-4530-8e3e-17e8fad1f198.gif)
+
+### Game Over
+![image](https://user-images.githubusercontent.com/54045014/149681169-73f995be-def1-4f96-bfdd-a718c9606a2f.png)
+
+
+
